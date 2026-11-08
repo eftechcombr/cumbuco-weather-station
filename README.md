@@ -1,5 +1,6 @@
 # weather-otel
 
+
 Reads live observations from the Cumbuco OceanView weather station and exports
 them as OpenTelemetry metrics over OTLP/HTTP to an existing collector.
 
